@@ -1,3 +1,3 @@
-# Penguin Treasure Diver
+# The Penguin and the Mountain
 
-WIP
+This a small 2D Platformer game about a Penguin climbing a mountain.
